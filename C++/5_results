@@ -1,0 +1,80 @@
+C
+:~/project_euler/C++ $ g++ 5.cpp -o 5;./5
+Enter the lcm number: 
+10
+The LCM of the numbers from 1 to 10 is found to be 2520 after 7371 iterations.
+:~/project_euler/C++ $ g++ 5.cpp -o 5;./5
+Enter the lcm number: 
+11
+The LCM of the numbers from 1 to 11 is found to be 27720 after 83700
+iterations.
+:~/project_euler/C++ $ g++ 5.cpp -o 5;./5
+Enter the lcm number: 
+12
+The LCM of the numbers from 1 to 12 is found to be 27720 after 86009
+iterations.
+:~/project_euler/C++ $ g++ 5.cpp -o 5;./5
+Enter the lcm number: 
+13
+The LCM of the numbers from 1 to 13 is found to be 360360 after 1145980
+iterations.
+:~/project_euler/C++ $ g++ 5.cpp -o 5;./5
+Enter the lcm number: 
+14
+The LCM of the numbers from 1 to 14 is found to be 360360 after 1171719
+iterations.
+:~/project_euler/C++ $ g++ 5.cpp -o 5;./5
+Enter the lcm number: 
+15
+The LCM of the numbers from 1 to 15 is found to be 360360 after 1195742
+iterations.
+:~/project_euler/C++ $ g++ 5.cpp -o 5;./5
+Enter the lcm number: 
+17
+^C
+:~/project_euler/C++ $ g++ 5.cpp -o 5;./5
+Enter the lcm number: 
+16
+The LCM of the numbers from 1 to 16 is found to be 720720 after 2436543
+iterations.
+:~/project_euler/C++ $ g++ 5.cpp -o 5;./5
+Enter the lcm number: 
+17
+The LCM of the numbers from 1 to 17 is found to be 12252240 after 42142206
+iterations.
+:~/project_euler/C++ $ g++ 5.cpp -o 5;./5
+Enter the lcm number: 
+18
+The LCM of the numbers from 1 to 18 is found to be 12252240 after 42822885
+iterations.
+:~/project_euler/C++ $ g++ 5.cpp -o 5;./5
+Enter the lcm number: 
+19
+^C
+:~/project_euler/C++ $ g++ 5.cpp -o 5;./5
+Enter the lcm number: 
+18
+The LCM of the numbers from 1 to 18 is found to be 12252240 after 42822885
+iterations.
+:~/project_euler/C++ $ time g++ 5.cpp -o 5;./5
+g++ 5.cpp -o 5  0.17s user 0.05s system 103% cpu 0.214 total
+Enter the lcm number: 
+18
+The LCM of the numbers from 1 to 18 is found to be 12252240 after 42822885
+iterations.
+:~/project_euler/C++ $ time g++ 5.cpp -o 5;./5
+g++ 5.cpp -o 5  0.19s user 0.03s system 103% cpu 0.212 total
+Enter the lcm number: 
+19
+
+The LCM of the numbers from 1 to 19 is found to be 232792560 after 825887378
+iterations.
+:~/project_euler/C++ $ 
+:~/project_euler/C++ $ time g++ 5.cpp -o 5;./5
+g++ 5.cpp -o 5  0.17s user 0.04s system 99% cpu 0.212 total
+Enter the lcm number: 
+20
+
+The LCM of the numbers from 1 to 20 is found to be 232792560 after 837527005
+iterations.
+

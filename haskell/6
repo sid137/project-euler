@@ -1,0 +1,5 @@
+sum_of_squares n = sum [x*x | x <- [1..n]]
+
+square_of_sum n = sum [1..n] * sum [1..n]
+
+difference n = square_of_sum n - sum_of_squares n
